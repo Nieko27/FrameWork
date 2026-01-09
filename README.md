@@ -3,7 +3,7 @@ A forewarning, I am very new to electronics design in general I apologies in adv
 
 
 <p align="center">
-  <img src="FrameWork_Header.png" alt="Banner" />
+  <img src="FrameWork_Banner.png" alt="Banner" />
 </p>
 
 # What is FrameWork?
