@@ -1,5 +1,5 @@
 ## Note
-A forewarning, I am very new to electronics design in general I apologies in advance for any really baffling design decisions. I hope to learn using these projects and will keep them updated as I learn more. Thank you for your patience.
+A forewarning, I am very new to electronics design in general I apologize in advance for any really baffling design decisions. I hope to learn using these projects and will keep them updated as I learn more. Thank you for your patience.
 
 
 <p align="center">
