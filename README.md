@@ -1,8 +1,7 @@
 ## Note
 A forewarning, I am very new to electronics design in general. I apologize in advance for any really baffling design decisions. I hope to learn from these projects and will keep them updated as I learn more. Thank you for your patience.
 
-[!Note]
-This is an unofficial 3rd-party project with no association to Valve.
+> ⚠️This is an unofficial 3rd-party project with no association to Valve.
 <p align="center">
   <img src="FrameWork_Banner.png" alt="Banner" />
 </p>
