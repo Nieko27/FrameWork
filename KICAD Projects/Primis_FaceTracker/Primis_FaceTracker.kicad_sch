@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "09338842-c96b-4cfe-b514-a0bd7b689391")
+	(paper "A4")
+	(title_block
+		(title "FaceTracker")
+		(date "2026-01-25")
+		(rev "EV2")
+		(company "Primis")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

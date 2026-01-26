@@ -29,3 +29,6 @@ Locus is intended to be a tracker like Vive or Tundra, but without reliance on l
 
 Link to Locus' files:
 https://github.com/Nieko27/FrameWork/tree/main/KICAD%20Projects/Primis_Locus
+
+## Ideas
+A few ideas for possible mods for the Frame have already been thrown around. If you have an idea for a mod, whether it's a full module or as simple as a 3D-printable counterweight, feel free to open a pull request under the enhancement tag. You may also feel free to email me at nieko972@gmail.com.
