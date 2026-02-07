@@ -7,19 +7,19 @@ A forewarning, I am very new to electronics design in general. I apologize in ad
 </p>
 
 # What is Frame Workshop?
-Frame Workshop is intended to be an open-source bundle of different hardware peripherals built around (but not always exclusive to) the Steam Frame. The idea is to leverage the steam frames' modularity and general openness to create a collection of open-source hardware projects that the community can provide feedback on, expand upon, or even take and turn into something entirely new, creating a feedback loop that adds to an ever-expanding ecosystem for the steam frame. All source files, from schematics to STLs, will be included, allowing every aspect of each project to be modified and produced to anyone’s preferences. 
+Frame Workshop is intended to be an open-source bundle of different hardware peripherals built around (but not always exclusive to) the Steam Frame. The idea is to leverage the Steam Frames' modularity and general openness to create a collection of open-source hardware projects that the community can provide feedback on, expand upon, or even take and turn into something entirely new, creating a feedback loop that adds to an ever-expanding ecosystem for the Steam Frame. All source files, from schematics to STLs, will be included, allowing every aspect of each project to be modified and produced to anyone’s preferences. 
 
 ## Hardware
 Below is a list of all currently in development hardware projects, including a brief overview and notes on changes made to the most recent revision.
 
 ### Frame Facetracker
-The frame face tracker is pretty self-explanatory: it is a module that uses a camera for face tracking in social experiences like VRChat. There are 2 versions planned: one built with the steam frame in mind, using its expansion ports, and another that plugs into the back USB port of the frame and uses an ESP32 to run the camera.
+The Frame face tracker is pretty self-explanatory: it is a module that uses a camera for face tracking in social experiences like VRChat. There are 2 versions planned: one built with the steam frame in mind, using its expansion ports, and another that plugs into the back USB port of the frame and uses an ESP32 to run the camera.
 
 Link to the facetracker files:
 https://github.com/Nieko27/FrameWork/tree/main/KICAD%20Projects/Primis_FaceTracker
 
 ### Versipellis (General Purpose Dongle)
-Versipellis is a dongle utilising an nRF52833 intended as a general-purpose dongle for communicating with any frame-based hardware, whether it be controllers or trackers. It will be programmable by the end user for whatever they intend to use it for. There will be two versions: one utilising no parts smaller than a 0603 package, making it easy to hand-assemble, and another using much smaller parts that, while smaller, will require assembly by a service like JLCPCB.
+Versipellis is a dongle utilising an nRF52833 intended as a general-purpose dongle for communicating with any Frame-based hardware, whether it be controllers or trackers. It will be programmable by the end user for whatever they intend to use it for. There will be two versions: one utilising no parts smaller than a 0603 package, making it easy to hand-assemble, and another using much smaller parts that, while smaller, will require assembly by a service like JLCPCB.
 
 Link to Versipellis' files:
 https://github.com/Nieko27/FrameWork/tree/main/KICAD%20Projects/Primis_Versipellis
